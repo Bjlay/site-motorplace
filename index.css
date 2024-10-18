@@ -16,7 +16,7 @@ ul{
   color: white;
   text-decoration: none;
  }
-      img{
+      imagem{
         width: 150px;
         height: 150px;
         border-radius: 50%;
@@ -24,3 +24,6 @@ ul{
       }
 
       
+      .center{
+        text-align: center;
+      }
